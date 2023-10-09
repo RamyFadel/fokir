@@ -1,0 +1,27 @@
+/* @media all and  (max-width:575px) {.layar .home{margin:auto;
+    text-align: center;
+    width: 70%;
+    height: 70%;
+    background-color: aqua;
+    }
+}
+
+
+
+
+@media all and  (min-width:576px) and (max-width:768px) { .layar .home{margin:auto;
+    text-align: center;
+    width: 70%;
+    height: 70%;
+    background-color: aqua;}
+}
+
+
+@media all and  (min-width:769px) and (max-width:991px) { .child{
+    width: 33.33%;}
+}
+
+
+@media all and  (min-width:992px) and (max-width:1199px) { .child{
+    width: 33.33%;}
+} */
